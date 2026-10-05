@@ -11,7 +11,7 @@ My projects cover a few different parts of web development: a QR-based print-sho
 Customers scan a shop's QR code, upload documents and choose print settings. The shop manages the orders from a dashboard. This is my most involved project, with Supabase data and file storage, realtime order updates, serverless API handlers and Razorpay subscription payments.
 
 **React · JavaScript · Vite · Supabase · Razorpay · Vercel**  
-[Website](https://www.printwithqr.in/) · [Architecture](https://github.com/itsshashank09/PrintWithQR/blob/main/docs/architecture.md)
+[Website](https://www.printwithqr.in/)
 
 ### [NeXLace](https://github.com/itsshashank09/NeXLace)
 
